@@ -1,0 +1,52 @@
+https://www.computer-course-center.com/blog/tutorial-membuat-website/shortcut-sublime-text-editor.html
+CTRL+C	Untuk copy
+Ctrl+X	Untuk cut
+Ctrl+?+K	Untuk mendelete
+Ctrl+?	Untuk menambahkan baris baru setelah baris sebelumnya
+Ctrl+?+?	Untuk menambahkan baris baru sebelum baris sebelumnya
+Ctrl+?+?	Untuk pindah keatas atau meseleksi ke atas
+Ctrl+L	Untuk memilih baris (ulangi untuk memilih baris berikutnya)
+Ctrl+D	Untuk memilih kata
+Ctrl+M	Untuk menuju ke penutupan braket code atau ke pembukaan braket code
+Ctrl+KK	Untuk menghapus ke akhir baris
+Ctrl+K+?	Untuk menghapus ke awal baris
+Ctrl+]	Untuk masuk ke baris saat ini
+Ctrl+[	Untuk tidak masuk ke baris saat ini
+Ctrl+?+D	Untuk menduplikat baris
+Ctrl+J	Untuk menggabungkan baris ke akhir baris saat ini
+Ctrl+ /	Untuk komentar atau membatalkan komentar pada baris saat ini
+Ctrl+?+/	Untuk memblok komentar di baris saat ini
+Ctrl+Y	Untuk membatalkan atau mengulangi perintah sebelumnya
+Ctrl+?+V	Untuk paste
+Ctrl+Space	Untuk memilih saran auto-complete berikutnya
+Ctrl+U	Untuk membatalkan perintah sebelumnya
+Navigasi
+Ctrl+P	Untuk membuka file dengan cepat sesuai nama di project anda
+Ctrl+R	Untuk menuju ke simbol (fungsi dan kelas) dalam file.
+Ctrl+;	Untuk menuju ke kata dalam file saat ini
+Ctrl+G	Untuk menuju ke baris dalam file saat ini
+Umum
+Ctrl+?+P	Untuk command prompt
+Ctrl+KB	Untuk beralih ke side bar
+Mencari atau mengganti
+Ctrl+F	Untuk mencari data
+Ctrl+H	Untuk mengganti data
+Ctrl+?+F	Untuk mencari data di dalam file
+Tabs
+Ctrl+?+t	Untuk membuka tab terakhir yang di tutup
+Ctrl+PgDn	Untuk Mesiklus turun melalui tab yang terbuka, untuk siklus naik Ctrl+PgUp
+Ctrl + ?	Untuk kembali melalui tab terakhir yang di tutup
+Split Windows
+Alt + ? + 2	Untuk membagi menjadi 2 kolom
+Alt + ? + 1	Untuk kembali menjadi 1 kolom
+Alt + ? + 5	Untuk grid
+Ctrl + [1,2,3,4]	Untuk melompat ke kelompok tertentu
+Ctrl + ? + [1,2,3,4]	Untuk memindahkan file ke kelompok tertentu
+Bookmark
+Ctrl + F2	Untuk berpindah ke bookmark lainnya
+F2	Untuk berpindah ke bookmark selanjutnya
+? + F2	Untuk berpindah ke bookmark sebelumnya
+Ctrl + ? + F2	Untuk berpindah ke bookmark yang ditentukan
+Manipulasi Teks
+Ctrl + KU	Untuk membuat huruf besar
+Ctrl + KL	Untuk membuat huruf kecil
