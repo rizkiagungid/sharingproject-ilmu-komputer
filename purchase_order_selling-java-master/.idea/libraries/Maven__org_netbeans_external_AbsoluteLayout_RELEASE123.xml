@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.netbeans.external:AbsoluteLayout:RELEASE123">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/external/AbsoluteLayout/RELEASE123/AbsoluteLayout-RELEASE123.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/external/AbsoluteLayout/RELEASE123/AbsoluteLayout-RELEASE123-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/external/AbsoluteLayout/RELEASE123/AbsoluteLayout-RELEASE123-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
