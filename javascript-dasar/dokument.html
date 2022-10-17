@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Belajar Javascript</title>
+    <script>
+        document.write("<h1>Hello World!</h1>");
+        document.write("<hr>");
+        document.write("<p>Saya sedang belajar Javascript</p>");
+        document.write("di <b>petanikode.com</b>")
+    </script>
+</head>
+<body>
+
+</body>
+</html>

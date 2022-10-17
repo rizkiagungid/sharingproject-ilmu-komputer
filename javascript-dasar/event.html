@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Penulisan Javascript di Atriibut</title>
+</head>
+
+<body>
+    <textarea onkeyup="document.getElementById('counter').innerText = this.value.length" cols="30" rows="10"></textarea>
+    <p>Panjang: <span id="counter">0</span> karakter</p>
+</body>
+
+</html>
