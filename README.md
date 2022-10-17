@@ -6,4 +6,6 @@ harap untuk menghargai copyright ya !
 untuk tanya-tanya atau hal lainnya bisa hubungi
 instagram: @rizkiagung.id
 - Bantu Suport saya dengan melakukan Donasi atau Subscribe/Follow beberapa sosial media saya.
-Youtube: Rizki Agung Sentosa
+-Youtube: Rizki Agung Sentosa
+-Instagram: @rizkiagungid
+-Facebook: fb.com/rizkiagungsx
